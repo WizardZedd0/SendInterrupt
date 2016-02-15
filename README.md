@@ -1,2 +1,2 @@
 # SendInterrupt
-Sends a string of text/clicks which will be interrupted by stop Keys
+[Function] Sends a string of text/clicks which will be interrupted by stop Keys
